@@ -10,7 +10,7 @@ https://hackmd.io/@Erebustsai/Byul7e-Up
 
 * Histogram
 * Matrix Multiplication
-* Convolution
+* Convolution / Sobel
 * Prefix Scan
 * N-body
 * Parallel Sorting Algorithms
