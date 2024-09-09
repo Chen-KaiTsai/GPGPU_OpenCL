@@ -14,6 +14,8 @@ https://hackmd.io/@Erebustsai/Byul7e-Up
 * Prefix Scan
 * N-body
 * Parallel Sorting Algorithms
+* Reduction
+* SpMV
 
 ## Contains
 
@@ -24,5 +26,9 @@ https://hackmd.io/@Erebustsai/Byul7e-Up
 
 ## How to Compile
 
+### Windows
 * I use Windows for this project so using Visual Studio 2022 is recommanded. Please remember to install and include OpenCV and OpenCL in your project setting.
 * For OpenCL headers, I use headers provided in https://github.com/ProjectPhysX/OpenCL-Wrapper . Please refer to the Github page for better detail.
+
+### Linux
+* Each algo is in different dir. TODO \: `Makefile`
