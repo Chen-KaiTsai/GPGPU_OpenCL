@@ -1,7 +1,7 @@
 # GPGPU_OpenCL
 Some common GPGPU algorithms with OpenCL on Nvidia GPU.
 
-This repository with the HackMD document include what optimization skills are provided to different implemented algorithms. This is used by me as a reference when working on implementing different algorithms on GPU. 
+This repository comes with a HackMD document include what optimization skills are provided to different implemented algorithms. This is used by me as a reference when working on implementing different algorithms on GPU. 
 
 # HackMD Document
 https://hackmd.io/@Erebustsai/Byul7e-Up
@@ -31,4 +31,5 @@ https://hackmd.io/@Erebustsai/Byul7e-Up
 * For OpenCL headers, I use headers provided in https://github.com/ProjectPhysX/OpenCL-Wrapper . Please refer to the Github page for better detail.
 
 ### Linux
-* Each algo is in different dir. TODO \: `Makefile`
+* Each algo is in different dir.
+* `make`
