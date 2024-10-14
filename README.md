@@ -19,8 +19,9 @@ https://hackmd.io/@Erebustsai/Byul7e-Up
 
 ## Contains
 
-* `.cl` files and `main_xxxx.cpp` files are provided. The main files should be used as examples.
+* For using _Windows with Visual Studio 2022_, `.cl` files and `main_xxxx.cpp` files are provided. The main files should be used as examples.
 * `main_xxxx.cpp` contain the main functions and additional functions for different algorithm implementations.
+* For using _Linux_, `Makefile` is provided.
 * `namespace ocl` provide variety of helper functions that can help writing OpenCL programs.
 * `namespace CVHelper` provide functions for reading and writing imgs to and from a `float` format. This can be easily change to different types.
 
